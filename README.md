@@ -2,7 +2,7 @@
 
 Collected Chinese knowledge sources for QA
 
-Since the files are large, they can be downloaded from http://pan.baidu.com/s/1jH4QmKuSince
+Since the files are large, they can be downloaded from http://pan.baidu.com/s/1cvn0gI
 
 * Tsinghua_ontology.owl
 
