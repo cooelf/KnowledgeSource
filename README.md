@@ -4,18 +4,18 @@ Collected Chinese knowledge sources for QA
 
 Since the files are large, they can be downloaded from http://pan.baidu.com/s/1jH4QmKuSince
 
-Tsinghua_ontology.owl
+* Tsinghua_ontology.owl
 
-sample_instances.owl (Sample version of Tsinghua_ontology)
+* sample_instances.owl (Sample version of Tsinghua_ontology)
 
-baidu_crawler_data_v5.xml
+* baidu_crawler_data_v5.xml
 
-百科词条共119398.csv
+* 百科词条共119398.csv
 
-zhwiki-latest-abstract-zh-cn_out.xml
+* zhwiki-latest-abstract-zh-cn_out.xml
 
-ontology.owl (Most are categories)
+* ontology.owl (Most are categories)
 
-qa_pairs.txt
+* qa_pairs.txt
 
-qa_pairs.xml
+* qa_pairs.xml
